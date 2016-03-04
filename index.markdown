@@ -1,5 +1,5 @@
 ---
-state:
+state: |
   name: John;
 style: |
 	body{
