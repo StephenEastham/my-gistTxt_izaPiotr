@@ -4,3 +4,5 @@ state:
 ---
 
 Hi {{name}}!
+
+[go to the city](city)
