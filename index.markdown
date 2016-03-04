@@ -3,7 +3,7 @@ state:
   name: John
 style: |
 	body{
-	background: blue;
+	background: "blue";
 	}
 ---
 
