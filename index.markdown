@@ -1,1 +1,6 @@
-a
+---
+state:
+  name: John
+---
+
+Hi {{name}}!
