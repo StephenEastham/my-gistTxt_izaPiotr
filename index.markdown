@@ -1,7 +1,7 @@
 ---
-state: |
+state:
   name: John
-style: |
+style:
   body{
      background: #44e544;
   }
