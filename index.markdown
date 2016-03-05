@@ -1,6 +1,6 @@
 ---
 state: |
-  name: John;
+  name: John
 style: |
   body{
      background: #44e544;
