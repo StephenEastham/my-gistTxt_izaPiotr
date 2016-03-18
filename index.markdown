@@ -1,6 +1,6 @@
 ---
 state:
-  name: John
+  name: Stephen
 style: |
   p{
      color: #44e544;
