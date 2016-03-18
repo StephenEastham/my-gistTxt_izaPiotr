@@ -1,7 +1,7 @@
 ---
 style: |
   body{
-    background-image: url("https://image.freepik.com/free-vector/sunset-city-silhouettes-background-vector-set_275-6700.jpg");
+    background-image: url("http://randomwallpapers.net/city-cartoon-silhouette-skyline-2560x1440-wallpaper424438.jpg");
   }
 ---
 
