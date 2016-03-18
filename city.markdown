@@ -2,7 +2,7 @@
 init: !!js/function |
   function() {
     window.city = window.city + 1 || 1;
-    if(window.city > 5) window.result = 'YOU LOSE, HAHAHAHA';
+    if(window.city > 2) window.result = 'YOU LOSE, HAHAHAHA';
   }
 state:
   numberOfViews: !!js/function |
@@ -21,6 +21,8 @@ style: |
 
 Dear {{name}}, you are in the city! It's amazing!
 
-Number of views: {{numberOfViews}} {{getResult}}
+Number of views: {{numberOfViews}} 
+
+{{getResult}}
 
 [back to index](index)
