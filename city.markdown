@@ -1,5 +1,5 @@
 ---
-init:
+init: !!js/function |
   function() {
     window.city = window.city + 1 || 1;
   }
