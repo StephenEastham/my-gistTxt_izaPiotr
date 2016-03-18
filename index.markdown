@@ -2,8 +2,8 @@
 state:
   name: John
 style: |
-  body{
-     background: #44e544;
+  p{
+     color: #44e544;
   }
 ---
 
