@@ -5,6 +5,9 @@ style: |
   p{
      color: #44e544;
   }
+  a{
+    color: gray;
+  }
 ---
 
 Hi {{name}}!
