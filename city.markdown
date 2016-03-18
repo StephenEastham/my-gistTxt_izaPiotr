@@ -1,7 +1,7 @@
 ---
 style: |
   body{
-    background-image: url("http://randomwallpapers.net/city-cartoon-silhouette-skyline-2560x1440-wallpaper424438.jpg");
+    background-image: url("http://www.vectorfree.com/media/vectors/cartoon-city-skyline.jpg");
   }
 ---
 
