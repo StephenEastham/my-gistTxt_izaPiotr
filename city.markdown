@@ -1,7 +1,7 @@
 ---
 style: |
   body{
-    background-image: url("http://www.desktopwallpaper2.com/desktop-wallpaper-home/City-Background-Wallpaper-hd-wallpaper-1920x1080-2-508ba15df2783-1089.jpg");
+    background-image: url("https://image.freepik.com/free-vector/sunset-city-silhouettes-background-vector-set_275-6700.jpg");
   }
 ---
 
