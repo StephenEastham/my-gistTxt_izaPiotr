@@ -14,6 +14,6 @@ style: |
   }
 ---
 
-Hi {{name}}!
+Hi {{#names}}<b>{{name}}</b>{{/names}}!
 
 [go to the city](city)
