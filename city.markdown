@@ -19,7 +19,7 @@ style: |
   }
 ---
 
-Dear {{name}}, you are in the city! It's amazing!
+Dear {{#names}}{{name}}{{/names}}, you are in the city! It's amazing!
 
 Number of views: {{numberOfViews}} 
 

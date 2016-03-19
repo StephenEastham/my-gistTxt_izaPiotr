@@ -1,6 +1,10 @@
 ---
 state:
-  name: Stephen
+  names: [
+    {name: Stephen1},
+    {name: Stephen2},
+    {name: Stephen3}
+  ]
 style: |
   p{
      color: #44e544;
