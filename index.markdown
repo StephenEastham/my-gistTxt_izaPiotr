@@ -3,7 +3,7 @@ state:
   names: [
     {name: Stephen1},
     {name: Stephen2},
-    
+    {name: Stephen2}
   ]
 style: |
   p{
